@@ -11,7 +11,7 @@ const con = mysql.createConnection({
 
     // Your password
     password: "root",
-    database: "bamazon"
+    database: "burgers_db"
 });
 
 module.exports = con;
